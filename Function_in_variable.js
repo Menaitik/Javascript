@@ -7,7 +7,6 @@
 // other - trial user
 // Input: getUserRole(name, role)
 
-
 var getUserRole = function(name, role) {
 // this is called function in variable
     if (role == "admin") {
