@@ -24,4 +24,4 @@ function getUserRole(name, role) {
         default:
             return `${name} is a trial user`
     }
-}
+} 
