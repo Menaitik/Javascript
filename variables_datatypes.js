@@ -12,7 +12,8 @@ var loggedCount = 34;//number
 var paymentMode;//undefined datatype
 paymentMode = "Credit card";
 
-// difference between var and let is that var can be redeclared but let cannot be redeclared because it is block scoped that means it is only available in the block in which it is declared
+// difference between var and let is that var can be redeclared but let cannot be redeclared because it is block scoped that means it is only available in the block in which it is declared 
+
 
 
 
